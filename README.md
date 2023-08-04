@@ -25,4 +25,15 @@ Walmart from 2011 to 2014. Created a Dashboard and provided insights and solutio
    
 ![Screenshot 2023-08-05 024802](https://github.com/tuneerdutta/Walmart-Sales-Analysis/assets/131517578/70bab083-a58f-4687-9120-dee6e5a3bf77)
 
-2) 
+**2) Creation of Dashboard in Powerbi based on the Data.**
+
+**a) Products_Dashboard -** It includes various charts, graphs, tables, and other visualizations that provide a comprehensive view of product-related data. This dashboard can be tailored to suit the specific needs of the business and can help us monitor and analyze product performance, sales, inventory, customer feedback, and other important metrics.
+
+![Screenshot 2023-08-05 025318](https://github.com/tuneerdutta/Walmart-Sales-Analysis/assets/131517578/669e6f44-8da4-41d3-befb-08899fa47954)
+
+**b) Customers_Orders Dashboard -** It contains all the Customers and Orders relatied informations. It is for the analysis of Order Summary, Order Trend, Top Customers, Order Geography and Order during the previous years.
+
+![Screenshot 2023-08-05 025337](https://github.com/tuneerdutta/Walmart-Sales-Analysis/assets/131517578/eea86184-4fb5-472f-b31c-af87f1968f71)
+
+
+
