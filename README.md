@@ -35,5 +35,10 @@ Walmart from 2011 to 2014. Created a Dashboard and provided insights and solutio
 
 ![Screenshot 2023-08-05 025337](https://github.com/tuneerdutta/Walmart-Sales-Analysis/assets/131517578/eea86184-4fb5-472f-b31c-af87f1968f71)
 
+**3) Insights and Improvements provided based on the Dashboard.**
 
+
+
+
+**----Challenges Faced----**
 
