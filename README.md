@@ -37,6 +37,47 @@ Walmart from 2011 to 2014. Created a Dashboard and provided insights and solutio
 
 **3) Insights and Improvements provided based on the Dashboard.**
 
+a) The total Revenue is 3.54 M and the profit is 152 k.
+b) The highest number of products were sold in the State Claifornia.
+c) The Sales and Profit goes on increasing year by year. So we can say that the company is in a good state.
+
+![insights_6](https://github.com/tuneerdutta/Walmart-Sales-Analysis/assets/131517578/a753a54b-708d-40e9-b00a-f8147d6f5b44)
+
+d) Overall Consumer Segment has more number of Products Sold.
+
+![insights_5](https://github.com/tuneerdutta/Walmart-Sales-Analysis/assets/131517578/555ce06e-3f72-4c6e-b04f-5436415adf2b)
+
+e) Very less people are buying Office Supplies Subcategory Products.
+
+![insights_4](https://github.com/tuneerdutta/Walmart-Sales-Analysis/assets/131517578/2f279c5a-aba7-4ed3-ba2a-63d71651b3a7)
+
+f) In the month of May and June in 2014 the Aquisition of Customers were very less compared to other years.
+
+![insights_3](https://github.com/tuneerdutta/Walmart-Sales-Analysis/assets/131517578/2e8fde07-b352-4146-b595-ee62c3d406f7)
+
+g) Very less orders were ordered in the Same Day.
+h) So the average delivery time for the Orders are 57 days approx. So we should look into the delivery agents.
+i) Montona State has ordered least number of products.
+j) Currently the company is in a good state but the Sales can do down in any Month because the graph of Sales for Years is not stable.
+k) Total Products Ordered - 1504
+l) In the Month of Jan in 2014 the Sales and Profit was good but recently it came down.
+
+![insights_1](https://github.com/tuneerdutta/Walmart-Sales-Analysis/assets/131517578/d8a974c1-359f-4e35-8c97-8bf58c682ef3)
+
+![insights_2](https://github.com/tuneerdutta/Walmart-Sales-Analysis/assets/131517578/0e5a3810-1d7b-40fe-8cc1-c2f12c06813d)
+
+
+**----Improvements----**
+
+1) As the delivery time taken is much more for the products to be delivered. So we should consult with the delivery agents and ask about this mishap.
+
+2) There are some customers who are hardly buying products. So we need to go to them or give some offeres to only those customers.
+
+3) We should look to the quality or return rate of the products in Nevada State because it the least ordering State.
+
+4) We should study the customer feedback and the reviews in our online platform.
+
+5) Prices of the least selling products should be given some discount.
 
 
 
