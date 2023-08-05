@@ -48,29 +48,29 @@ Used Numpy as Pandas for cleaning the data.
 ![cleaning_4](https://github.com/tuneerdutta/Walmart-Sales-Analysis/assets/131517578/082f7aae-beba-4952-9244-89ac2e7ddd6f)
 
 
-3) Making the Schema of the Database and Normalize the Data :
+**3) Making the Schema of the Database and Normalize the Data :**
 
- a) Customer Table :
+** a) Customer Table :**
  
 ![customer](https://github.com/tuneerdutta/Walmart-Sales-Analysis/assets/131517578/bcf5a88f-649a-4cad-bbda-df415014df5e)
 
- b) Shippers Table:
+ **b) Shippers Table:**
  
 ![shippers](https://github.com/tuneerdutta/Walmart-Sales-Analysis/assets/131517578/c8306407-8d02-4cc5-bb7b-9b222bc5b586)
 
- c) Orders Table:
+ **c) Orders Table:**
  
 ![Orders](https://github.com/tuneerdutta/Walmart-Sales-Analysis/assets/131517578/c40fd807-a5fd-43ad-97e6-3a2624e751b1)
 
- d) OrderDetails Table:
+** d) OrderDetails Table:**
  
 ![orderdetails](https://github.com/tuneerdutta/Walmart-Sales-Analysis/assets/131517578/ce48b41f-3d06-4e39-acda-fb415ac72899)
 
- e) Products Table:
+ **e) Products Table:**
  
 ![products](https://github.com/tuneerdutta/Walmart-Sales-Analysis/assets/131517578/34245bf3-24e2-48ae-bef0-dc3a91e46c36)
 
- f) Full Table: 
+ **f) Full Table: **
  
  ![fu;ll table](https://github.com/tuneerdutta/Walmart-Sales-Analysis/assets/131517578/046887ff-8378-420b-aaef-d903712d11fc)
 
@@ -90,37 +90,37 @@ Used Numpy as Pandas for cleaning the data.
 ![insights_7](https://github.com/tuneerdutta/Walmart-Sales-Analysis/assets/131517578/55aa43b9-0fcf-478d-8b1c-4ac73f46b1f4)
 ![insights_8](https://github.com/tuneerdutta/Walmart-Sales-Analysis/assets/131517578/31aaff01-af50-4640-aab7-e4501634634c)
 
-a) The total Revenue is 3.54 M and the profit is 152 k.
+**a) The total Revenue is 3.54 M and the profit is 152 k.**
 
-b) The highest number of products were sold in the State Claifornia.
+**b) The highest number of products were sold in the State Claifornia.**
 
-c) The Sales and Profit goes on increasing year by year. So we can say that the company is in a good state.
+**c) The Sales and Profit goes on increasing year by year. So we can say that the company is in a good state.**
 
 ![insights_6](https://github.com/tuneerdutta/Walmart-Sales-Analysis/assets/131517578/a753a54b-708d-40e9-b00a-f8147d6f5b44)
 
-d) Overall Consumer Segment has more number of Products Sold.
+**d) Overall Consumer Segment has more number of Products Sold.**
 
 ![insights_5](https://github.com/tuneerdutta/Walmart-Sales-Analysis/assets/131517578/555ce06e-3f72-4c6e-b04f-5436415adf2b)
 
-e) Very less people are buying Office Supplies Subcategory Products.
+**e) Very less people are buying Office Supplies Subcategory Products.**
 
 ![insights_4](https://github.com/tuneerdutta/Walmart-Sales-Analysis/assets/131517578/2f279c5a-aba7-4ed3-ba2a-63d71651b3a7)
 
-f) In the month of May and June in 2014 the Aquisition of Customers were very less compared to other years.
+**f) In the month of May and June in 2014 the Aquisition of Customers were very less compared to other years.**
 
 ![insights_3](https://github.com/tuneerdutta/Walmart-Sales-Analysis/assets/131517578/2e8fde07-b352-4146-b595-ee62c3d406f7)
 
-g) Very less orders were ordered in the Same Day.
+**g) Very less orders were ordered in the Same Day.**
 
-h) So the average delivery time for the Orders are 57 days approx. So we should look into the delivery agents.
+**h) So the average delivery time for the Orders are 57 days approx. So we should look into the delivery agents.**
 
-i) Montona State has ordered least number of products.
+**i) Montona State has ordered least number of products.**
 
-j) Currently the company is in a good state but the Sales can do down in any Month because the graph of Sales for Years is not stable.
+**j) Currently the company is in a good state but the Sales can do down in any Month because the graph of Sales for Years is not stable.**
 
-k) Total Products Ordered - 1504
+**k) Total Products Ordered - 1504**
 
-l) In the Month of Jan in 2014 the Sales and Profit was good but recently it came down.
+**l) In the Month of Jan in 2014 the Sales and Profit was good but recently it came down.**
 
 ![insights_1](https://github.com/tuneerdutta/Walmart-Sales-Analysis/assets/131517578/d8a974c1-359f-4e35-8c97-8bf58c682ef3)
 
