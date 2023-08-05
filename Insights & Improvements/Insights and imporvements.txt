@@ -1,0 +1,23 @@
+Insights
+
+1) The total Revenue is 3.54 M and the profit is 152 k.
+2) The highest number of products were sold in the State Claifornia.
+3) The Sales and Profit goes on increasing year by year. So we can say that the company is in a good state.
+4) Overall Consumer Segment has more number of Products Sold.
+5) Very less people are buying Office Supplies Subcategory Products.
+6) In the month of May and June in 2014 the Aquisition of Customers were very less compared to other years.
+7) Very less orders were ordered in the Same Day.
+8) So the average delivery time for the Orders are 57 days approx.
+9) Montona State has ordered least number of products.
+10) Currently the company is in a good state but the Sales can do down in any Month because the graph of Sales for Years is not stable.
+11) Total Products Ordered - 1504
+12) In the Month of Jan in 2014 the Sales and Profit was good but recently it came down.
+
+
+Improvements
+
+1) As the delivery time taken is much more for the products to be delivered. So we should consult with the delivery agents and ask about this mishap.
+2) There are some customers who are hardly buying products. So we need to go to them or give some offeres to only those customers.
+3) We should look to the quality or return rate of the products in Nevada State because it the least ordering State.
+4) We should study the customer feedback and the reviews in our online platform.
+5) Prices of the least selling products should be given some discount.
