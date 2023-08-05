@@ -83,3 +83,9 @@ l) In the Month of Jan in 2014 the Sales and Profit was good but recently it cam
 
 **----Challenges Faced----**
 
+**1) Data Cleaning -** I phased the major problem in the data cleaning part with Power Query. Because the data was too uncleaned when it was donloaded.
+
+**2) Insights and Improvements -** To study the insights deeply and visualize the charts and suggest good Improvements.
+
+**3) Sentiment Analysis -** Analyzing Customer reviews and feedback to gauge sentiment and identify areas for improvement became challenging, especially with the varying nature of products and orders and places.
+
