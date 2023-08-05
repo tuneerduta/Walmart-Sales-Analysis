@@ -50,7 +50,7 @@ Used Numpy as Pandas for cleaning the data.
 
 **3) Making the Schema of the Database and Normalize the Data :**
 
-** a) Customer Table :**
+**a) Customer Table :**
  
 ![customer](https://github.com/tuneerdutta/Walmart-Sales-Analysis/assets/131517578/bcf5a88f-649a-4cad-bbda-df415014df5e)
 
@@ -62,7 +62,7 @@ Used Numpy as Pandas for cleaning the data.
  
 ![Orders](https://github.com/tuneerdutta/Walmart-Sales-Analysis/assets/131517578/c40fd807-a5fd-43ad-97e6-3a2624e751b1)
 
-** d) OrderDetails Table:**
+**d) OrderDetails Table:**
  
 ![orderdetails](https://github.com/tuneerdutta/Walmart-Sales-Analysis/assets/131517578/ce48b41f-3d06-4e39-acda-fb415ac72899)
 
@@ -70,7 +70,7 @@ Used Numpy as Pandas for cleaning the data.
  
 ![products](https://github.com/tuneerdutta/Walmart-Sales-Analysis/assets/131517578/34245bf3-24e2-48ae-bef0-dc3a91e46c36)
 
- **f) Full Table: **
+ **f) Full Table:**
  
  ![fu;ll table](https://github.com/tuneerdutta/Walmart-Sales-Analysis/assets/131517578/046887ff-8378-420b-aaef-d903712d11fc)
 
